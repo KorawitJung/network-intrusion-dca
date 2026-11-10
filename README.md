@@ -1,5 +1,10 @@
 # Can a Model Catch a Cyberattack It Has Never Seen Before?
 
+> [!WARNING]
+> **For learning only.** This is a personal study and portfolio project. It is not used commercially and is not intended to harm any person or organisation. It analyses a public research dataset of recorded lab traffic and contains no attack tools. Do not use anything here against a system or network without permission. The datasets belong to their original creators under their own licences.
+>
+> **เพื่อการศึกษาเท่านั้น** โปรเจกต์นี้จัดทำเพื่อการศึกษาและเป็นผลงานส่วนตัว ไม่ได้ใช้ในเชิงพาณิชย์ และไม่มีเจตนาทำให้บุคคลหรือองค์กรใดเสียหาย โปรเจกต์นี้วิเคราะห์ชุดข้อมูลวิจัยสาธารณะที่บันทึกจากห้องทดลอง และไม่มีเครื่องมือสำหรับโจมตี ห้ามนำส่วนใดไปใช้กับระบบหรือเครือข่ายที่ไม่ได้รับอนุญาต ชุดข้อมูลเป็นของผู้จัดทำต้นทางและอยู่ภายใต้สัญญาอนุญาตของต้นทาง
+
 Data collection, cleaning and analysis of labelled network traffic (CIC-IDS2017), in Python.
 
 **Status:** run on the full dataset (2,830,743 flows; 2,520,798 after cleaning). The traffic comes from a 2017 lab testbed, so the answers describe that testbed, not a live network.
