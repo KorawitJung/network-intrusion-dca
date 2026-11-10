@@ -1,0 +1,5 @@
+name,role,url,licence_note
+CIC-IDS2017 (original),primary dataset - cite this,https://www.unb.ca/cic/datasets/ids-2017.html,Cite Sharafaldin et al. 2018 as requested on the page
+CIC-IDS2017 (Kaggle mirror: chethuhn/network-intrusion-dataset),download source,https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset,User-uploaded copy; check the licence on the dataset page
+CSE-CIC-IDS2018 (original),optional cross-dataset test,https://www.unb.ca/cic/datasets/ids-2018.html,Cite as requested on the page
+UNSW-NB15 (original),optional cross-dataset test,https://research.unsw.edu.au/projects/unsw-nb15-dataset,Cite as requested on the page

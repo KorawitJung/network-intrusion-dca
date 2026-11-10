@@ -1,0 +1,8 @@
+# Raw and cleaned data are large; reproduce them with the scripts.
+data/raw/*
+data/clean/*.csv
+!data/clean/cleaning_log.csv
+__pycache__/
+.Rhistory
+.RData
+.venv/

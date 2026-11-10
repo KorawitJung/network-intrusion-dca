@@ -1,0 +1,12 @@
+attack_family,flows,recall,evaluation
+Botnet,583,0.8044596912521441,random split
+Brute force,2674,0.987658937920718,random split
+DDoS,38391,0.9991925190799927,random split
+DoS,58173,0.9963385075550513,random split
+Infiltration,7,0.7142857142857143,random split
+Other,3,0.6666666666666666,random split
+PortScan,27221,1.0,random split
+Web attack,670,0.9477611940298507,random split
+Botnet,1948,0.0,"train Mon-Thu, test Fri"
+DDoS,128014,0.4964769478338307,"train Mon-Thu, test Fri"
+PortScan,90694,0.0012128696495909321,"train Mon-Thu, test Fri"

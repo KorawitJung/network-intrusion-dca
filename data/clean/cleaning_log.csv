@@ -1,0 +1,6 @@
+step,rows,columns
+"raw, all files",2830743,81
+drop repeated columns: ['Fwd Header Length.1'],2830743,80
+drop rows with Inf / NaN / non-numeric features,2827876,82
+drop 8 constant columns,2827876,74
+drop duplicate flows,2520798,74

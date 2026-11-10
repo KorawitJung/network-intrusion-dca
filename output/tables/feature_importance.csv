@@ -1,0 +1,31 @@
+evaluation,feature,importance
+random split,Average Packet Size,0.0896632760553811
+random split,Bwd Packet Length Std,0.07583227597920647
+random split,Avg Bwd Segment Size,0.07147498930872742
+random split,Packet Length Variance,0.0603939262796709
+random split,Bwd Packet Length Mean,0.05450754272433877
+random split,Packet Length Std,0.050486845791770193
+random split,Packet Length Mean,0.03984241337101673
+random split,Max Packet Length,0.03218900781035192
+random split,Fwd Packet Length Max,0.028184335188822907
+random split,Total Length of Fwd Packets,0.027841919355260404
+random split,Fwd Packet Length Mean,0.02621987245118611
+random split,Total Length of Bwd Packets,0.025011534117227296
+random split,Init_Win_bytes_backward,0.024518534754202594
+random split,Fwd Header Length,0.02063588940561273
+random split,Subflow Fwd Bytes,0.020370854912587784
+"train Mon-Thu, test Fri",Bwd Packet Length Std,0.11288013821381572
+"train Mon-Thu, test Fri",Avg Bwd Segment Size,0.09951306851628913
+"train Mon-Thu, test Fri",Bwd Packet Length Mean,0.07443906780284716
+"train Mon-Thu, test Fri",Packet Length Variance,0.0649847574166413
+"train Mon-Thu, test Fri",Average Packet Size,0.06347802707823214
+"train Mon-Thu, test Fri",Packet Length Std,0.050413276842579825
+"train Mon-Thu, test Fri",Fwd IAT Max,0.04409929868162225
+"train Mon-Thu, test Fri",Flow Packets/s,0.03222130535469778
+"train Mon-Thu, test Fri",Bwd Packet Length Max,0.030754810643018174
+"train Mon-Thu, test Fri",Total Length of Bwd Packets,0.028254472569301282
+"train Mon-Thu, test Fri",Packet Length Mean,0.027045594976482533
+"train Mon-Thu, test Fri",Max Packet Length,0.026662027965970458
+"train Mon-Thu, test Fri",Fwd IAT Std,0.01999792219394389
+"train Mon-Thu, test Fri",Subflow Bwd Bytes,0.018076034145250316
+"train Mon-Thu, test Fri",Fwd Packets/s,0.01753258624614012
